@@ -4,6 +4,16 @@ this using symfony2 yaml component
 
 ## installing
 
+for simple way, try using composer,
+add this on your composer.json file in require tag
+
+    "pieter/yaml": "dev-master"
+
+and run from terminal
+
+    ~/php composer.phar update "pieter/yaml"
+
+after that,
 add this code on **app/config/app.php**
 
     array(
