@@ -5,6 +5,7 @@ this using symfony2 yaml component
 ## installing
 
 add this code on **app/config/app.php**
+
 <code>
 array(
   -----
