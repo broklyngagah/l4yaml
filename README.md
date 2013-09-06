@@ -28,6 +28,11 @@ add this code on **app/config/app.php**
       ),
     )
 
+## Config
+
+If you want to create custom config, you can use default config and publish to your project config folder
+
+    ~/php artisan config:publish pieter/yaml
 
 ## How to use
 
