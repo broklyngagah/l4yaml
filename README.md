@@ -8,15 +8,14 @@ add this code on **app/config/app.php**
 
 <code>
 array(
-  -----
   'providers' => array (
-        --- other providers ----,
+        other providers,
 
         'Pieter\Yaml\YamlServiceProvider',
 
     ),
   'aliases' => array (
-        --- other providers ----,
+        other aliases,
 
         'Yaml'            => 'Pieter\Yaml\Facades\Yaml',
 
