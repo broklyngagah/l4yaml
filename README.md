@@ -21,9 +21,9 @@ add this code on **app/config/app.php**
 
 ## How to use
 
-just create in yaml file and call from your controller
+just create in yaml on app/config folder and call from your controller
 
-    \Yaml::setFile('test.yml');
+    \Yaml::setFile('[your_file].yml');
     return \Yaml::parsing();
 
 
