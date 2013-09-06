@@ -10,20 +10,14 @@ add this code on **app/config/app.php**
 array(
   'providers' => array (
         other providers,
-
         'Pieter\Yaml\YamlServiceProvider',
-
     ),
   'aliases' => array (
         other aliases,
-
         'Yaml'            => 'Pieter\Yaml\Facades\Yaml',
-
     )
   ),
-
 )
-
 </code>
 
 ## How to use
