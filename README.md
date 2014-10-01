@@ -1,6 +1,8 @@
 # L4-yaml file parser
 
-this using symfony2 yaml component
+> Now this package support for laravel 5
+
+This using symfony2 yaml component.
 
 ## installing
 

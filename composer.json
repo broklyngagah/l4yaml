@@ -1,6 +1,8 @@
 {
     "name": "pieter/yaml",
     "description": "yaml parser for laravel 4",
+    "keywords": ["laravel", "yaml", "parser"],
+    "license": "MIT",
     "authors": [
         {
             "name": "broklyngagah aka pieter lelaona",
